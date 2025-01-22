@@ -21,4 +21,4 @@
 6. Amazon, Flikart and Myntra are the top3 most prominent online sales channels.
 
 ## Conclusion
-Target women consumers of age group(20-49 yrs) living in UP, Maharashtra and Karnataka by showing advertisement, offers, coupons avaible on Amazon, Flipkar and Myntra. 
+Target women consumers of age group(20-49 yrs) living in UP, Maharashtra and Karnataka by showing advertisement, offers, coupons avaible on Amazon, Flipkart and Myntra. 
